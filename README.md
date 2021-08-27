@@ -29,3 +29,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 link for animations css: https://animate.style/
+
+Testes realizados apenas para estudo
